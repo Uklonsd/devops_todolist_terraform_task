@@ -17,7 +17,7 @@ os_hostname    = "hostname"
 admin_username = "testadmin"
 ssh_key_public = "~/.ssh/id_rsa.pub"
 
-install_app_script_url = "https://raw.githubusercontent.com/Uklonsd/devops_todolist_terraform_task/main/install-app.sh"
+install_app_script_url = "https://raw.githubusercontent.com/Uklonsd/devops_todolist_terraform_task/install-app.sh"
 
 storage_account_name_prefix      = "default"
 storage_account_tier             = "Standard"

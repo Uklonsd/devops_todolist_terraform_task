@@ -102,7 +102,7 @@ variable "ssh_key_public" {
 variable "install_app_script_url" {
   type        = string
   description = "URL of the installation script to be downloaded and executed on the VM."
-  default     = "https://raw.githubusercontent.com/fredisson11/devops_todolist_terraform_task/main/install-app.sh"
+  default     = "https://raw.githubusercontent.com/Uklonsd/devops_todolist_terraform_task/install-app.sh"
 }
 
 variable "storage_account_name_prefix" {
